@@ -1,4 +1,4 @@
-OWL-Predator v1.0
+OWL-Predator v1.1
 ==============
 
 
@@ -73,7 +73,8 @@ Features:
 - Cachefiles
 - Cleancache
 
-* Credits:
+Credits:
+===========
 - Andreas Schneider (Cryptomilk from based)
 - eoghan2t9
 
