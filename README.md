@@ -29,7 +29,6 @@ Configs:
 
 Features:
 ==========
-
 * Governors:
 - Superbad
 - Skywalker
@@ -53,8 +52,8 @@ Features:
 - LionHeart
 - Performance
 
-
-* Schedulers:
+Schedulers:
+==========
 - Noop
 - Deadline
 - CFQ
@@ -62,7 +61,8 @@ Features:
 - VR
 - SIO [Default]
 
-* Other Features:
+Other Features:
+==========
 - Ext2/3/4 support
 - Swap support
 - zRam that uses snappy
